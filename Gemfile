@@ -34,7 +34,13 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'hirb'
 
+#For Heroku asset pipeline
 gem 'rails_12factor', group: :production
+
+#Bootstrap theme related
+gem "font-awesome-rails"
+gem 'therubyracer'
+gem 'less-rails-bootstrap'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
