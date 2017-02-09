@@ -1,6 +1,6 @@
-# Dinner Planner App
+# Dinner Generator App
 
-**Never wonder "What should I make for dinner?" again!**
+**Never wonder "What should I make for dinner?" ever again!**
 
 > “I can't decide what to make for dinner!”
 - Someone who hasn't used this app
@@ -13,7 +13,7 @@ Dishes are sorted into entree, vegetable, and fruit. A dinner menu is generated 
 Congratulations, you now have a balanced meal!
 
 ## Heroku App
-Coming soon...
+[Dinner Generator](https://dinner-generator.herokuapp.com/)
 
 
 ## Usage
@@ -23,4 +23,4 @@ Coming soon...
 
 ## Resources
 
-* This app is a recreation of my former command line project [Dinner Generator](https://github.com/jindigiordano/phase-0-tracks/tree/master/8.5%20project)
+* This app is a recreation of my former command line project [Dinner Generator CLI](https://github.com/jindigiordano/phase-0-tracks/tree/master/8.5%20project)
