@@ -38,6 +38,7 @@ gem 'hirb'
 gem 'rails_12factor', group: :production
 
 #Bootstrap theme related
+gem 'twitter-bootstrap-rails'
 gem "font-awesome-rails"
 gem 'therubyracer'
 
