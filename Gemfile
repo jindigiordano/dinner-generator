@@ -40,7 +40,6 @@ gem 'rails_12factor', group: :production
 #Bootstrap theme related
 gem "font-awesome-rails"
 gem 'therubyracer'
-gem 'less-rails-bootstrap'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
