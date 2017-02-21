@@ -7,7 +7,7 @@ Rails.application.routes.draw do
   resources :entrees
   resources :vegetables
   resources :fruits
-  
+
   resources :sessions, only: [:new, :create, :destroy]
 
   get '/login' => 'sessions#new'
